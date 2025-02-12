@@ -1,10 +1,11 @@
-import React from 'react';
-import { Button } from './Components/Button';
+import React from 'react'
+import { Button } from './Components/Button'
+
 const App = () => {
   return (
-    <>
-    <Button>Button</Button>
-    </>
+    <div className="">
+      <Button>Button</Button>
+    </div>
   )
 }
 
