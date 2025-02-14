@@ -5,11 +5,12 @@ import { FaLocationDot } from "react-icons/fa6";
 import { SiLeetcode } from "react-icons/si";
 import { FaLinkedin } from "react-icons/fa";
 import { SiGmail } from "react-icons/si";
-import { Button } from "../Components/Button";
+// import { Button } from "../Components/Button";
 import Skills from "./Skills";
 import Experience from "./Experience";
 // import ProjectList from "./ProjectList";
 import Footer from "./Footer";
+import { Button } from "../Components/Button";
 const Home = () => {
   return (
     <div className="bg-[#111111] h-full w-full ">

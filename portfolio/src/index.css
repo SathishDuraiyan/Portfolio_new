@@ -2,9 +2,7 @@
 
 @config "../tailwind.config.js";
 
-*{
-  background: #111111;
-}
+
 
 .css-blurry-gradient {
     position: fixed;
